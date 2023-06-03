@@ -1,3 +1,23 @@
+Se presento la primera preEntrega del proyecto final.
+
+Contiene:
+
+una barra de navegacion con 4 links
+un carrito
+un logo
+un texto de base
+
+4 Contenedores:
+  Header
+  NavBar
+  ItemListContainer
+  CartWidget
+
+
+
+
+    IGNORAR TODO LO SIGUIENTE
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
