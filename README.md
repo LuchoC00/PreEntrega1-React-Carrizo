@@ -26,7 +26,7 @@ un texto de base
 
 
 
-
+.
         IGNORAR TODO LO SIGUIENTE
 
 # Getting Started with Create React App
